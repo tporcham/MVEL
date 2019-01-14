@@ -43,6 +43,7 @@
 				<version>2.1</version>
 				<configuration>
 					<archive>
+						<addMavenDescriptor>false</addMavenDescriptor>
 						<manifest>
 							<mainClass>org.mvel.MVELSH</mainClass>
 						</manifest>
