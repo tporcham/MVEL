@@ -29,6 +29,11 @@ The Shell allows to try out the various features of MVEL:
 ```
 mvel$ 3 + 5
 OUT: 8
+mvel$ map = ['key':'value', 'color':'green']
+OUT: {color=green, key=value}
+mvel$ map.class
+OUT: class java.util.HashMap
+mvel$
 ```
 The shell will store variables entered while the shell runs:
 ```
