@@ -5,8 +5,11 @@ Documentation can be found in the [Wiki](../../wiki).
 
 The more recent 2.* releases of MVEL can be [found here](https://github.com/mvel/mvel)
 
-## Getting Started
+## Installation
 Download the mvel .jar file from the target directory.
+MVEL 1.3 is available as a single .jar file with no external dependencies. 
+
+### MVEL Shell
 MVEL comes with a simple shell. You can start the shell with the following command:
 ```bash
 $ java -jar mvel-1.3.14.jar
